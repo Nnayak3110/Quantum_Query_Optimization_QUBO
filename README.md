@@ -1,4 +1,4 @@
-# Query Optimisation using Quantum Algorithms for DBMS by formulating it as QUBO
+# Constructing optimal bushy join trees by solving qubo problems on quantum hardware and simulators
 
 https://doi.org/10.1145/3579142.3594298
 
