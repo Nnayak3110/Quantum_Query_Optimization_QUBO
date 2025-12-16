@@ -23,6 +23,7 @@ The goal is to demonstrate how quantum algorithms such as QAOA, VQE and Quantum 
 
 Citation:
 
+```bibtex
 @inproceedings{nayak2023constructing,
   title={Constructing optimal bushy join trees by solving qubo problems on quantum hardware and simulators},
   author={Nayak, Nitin and Rehfeld, Jan and Winker, Tobias and Warnke, Benjamin and {\c{C}}alikyilmaz, Umut and Groppe, Sven},
